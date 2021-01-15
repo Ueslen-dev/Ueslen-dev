@@ -18,6 +18,7 @@ Estou a disposição para trabalhos ou caso precise de mais informações
  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
@@ -43,3 +44,8 @@ Estou a disposição para trabalhos ou caso precise de mais informações
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&link=https://github.com/Ueslen-dev/) ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/Ueslen-dev/) ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/Ueslen-dev/) ![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=Wordpress&link=https://github.com/Ueslen-dev/) ![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/Ueslen-dev/)
 #### Sistema operacional
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://github.com/Ueslen-dev/) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/Ueslen-dev/) ![MacOs](https://img.shields.io/badge/-MacOS-0078D6?style=flat-square&logo=MacOs&link=https://github.com/Ueslen-dev/)
+#### Minhas contribuições
+![Ueslen Santos Github stats](https://github-readme-stats.vercel.app/api?username=Ueslen-dev&show_icons=true&theme=dracula)
+
+#### Minhas redes
+![Lineding](https://img.shields.io/badge/-Linkedin-0078D6?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/ueslen-santos/) ![Lineding](https://img.shields.io/badge/-Instagram-333?style=flat-square&logo=Instagram&link=https://www.instagram.com/uesleensantos/)
