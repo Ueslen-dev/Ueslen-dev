@@ -26,3 +26,21 @@ Estou a disposição para trabalhos ou caso precise de mais informações
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
    </p>
+   
+### Conhecimentos
+#### Linguagens
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/Ueslen-dev/) ![Python](https://img.shields.io/badge/-Python-afd0ea?style=flat-square&logo=Python&link=https://github.com/Ueslen-dev/) ![Php](https://img.shields.io/badge/-Php-afd0ea?style=flat-square&logo=Php&link=https://github.com/Ueslen-dev/) 
+#### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/Ueslen-dev/) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/Ueslen-dev/) ![SASS](https://img.shields.io/badge/-SASS-ed9ac2?style=flat-square&logo=sass) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/Ueslen-dev/) ![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&link=https://github.com/Ueslen-dev/)
+
+#### Base de dados
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/Ueslen-dev/) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/Ueslen-dev/) ![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/Ueslen-dev/) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&link=https://github.com/Ueslen-dev/)
+
+#### Controle de versão e comunicação
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/Ueslen-dev/) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/Ueslen-dev/) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Ueslen-dev/) ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&link=https://github.com/Ueslen-dev/) ![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&link=https://github.com/Ueslen-dev/) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&link=https://github.com/Ueslen-dev/) ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&link=https://github.com/Ueslen-dev/)
+
+#### Outras tecnologias
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&link=https://github.com/Ueslen-dev/) ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/Ueslen-dev/) ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/Ueslen-dev/) ![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=Wordpress&link=https://github.com/Ueslen-dev/) ![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/Ueslen-dev/)
+#### Sistema operacional
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://github.com/Ueslen-dev/) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/Ueslen-dev/) ![MacOs](https://img.shields.io/badge/-MacOS-0078D6?style=flat-square&logo=MacOs&link=https://github.com/Ueslen-dev/)
