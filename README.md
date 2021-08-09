@@ -1,6 +1,6 @@
 ## Opa, e aí! Me chamo Ueslen Santos
 
-Sou apaixonado por tecnologia e desenvolvimento web, adoro resolver problemas utilizando o meu conhecimento em desenvolvimento. Atualmente me encontro trabalhando na Solutis Tecnologias como desenvolvedor front-end, uma área que me desperta a vontade de aprender e evoluir ao máximo, sempre buscando o próximo nível.
+Sou apaixonado por tecnologia e desenvolvimento web, adoro resolver problemas utilizando o meu conhecimento em desenvolvimento. Atualmente me encontro trabalhando na Iteris Consultoria & Software como front-end, uma área que me desperta a vontade de aprender e evoluir ao máximo, sempre buscando o próximo nível.
 
 Possuo experiência em UX/UI design, o que me ajuda muito na hora de projetar e desenvolver interfaces digitais.  
   
